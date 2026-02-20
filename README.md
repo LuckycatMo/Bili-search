@@ -39,7 +39,7 @@
 
 | 版本 | 说明 | 下载地址 |
 | :--- | :--- | :--- |
-| **v1.0 Portable** | **推荐**：解压后双击 `启动.bat` 即可使用 | [点击前往百度网盘](https://pan.baidu.com/s/1atkXp4Cza4aCTayHl6dU5w ) <br> (提取码请关注小红书账号获取) |
+| **v1.0 Portable** | **推荐**：解压后双击 `启动.bat` 即可使用 | [点击前往百度网盘](https://pan.baidu.com/s/1IH07T2qjPjor5ZQZz_8PIg) <br> (提取码请关注小红书账号**Pegasus爱发呆**获取) |
 
 ---
 
