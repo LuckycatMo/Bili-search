@@ -67,7 +67,7 @@ pip install streamlit requests loguru pandas bibtexparser PyExecJS
 ```bash
 streamlit run bili_search.py
 ```
-启动后，浏览器会自动打开 `http://localhost:8501`。
+#### 启动后，浏览器会自动打开 `http://localhost:8501`。
 如果没有打开，可自行复制网址于浏览器打开
 ---
 
