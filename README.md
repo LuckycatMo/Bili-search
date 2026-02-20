@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📺 Bili-search
+# 📺 Bili-search视频信息爬虫
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.22%2B-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
