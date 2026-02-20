@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📺 Bilibili-Spider-Streamlit
+# 📺 Bili-search
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.22%2B-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
@@ -61,7 +61,7 @@ git clone https://github.com/你的用户名/bili-search.git
 cd bili-search
 
 # 3. 安装 Python 依赖
-pip install streamlit requests loguru pandas pymongo bibtexparser PyExecJS
+pip install streamlit requests loguru pandas bibtexparser PyExecJS
 ```
 
 ### 3. 启动应用
@@ -77,7 +77,6 @@ streamlit run bili_search.py
 ```text
 bili-search/
 ├── bili_search.py      # 主程序入口 (Streamlit 界面)
-├── spider_util.py      # 工具函数
 ├── LICENSE             # 开源协议
 └── README.md           # 项目说明文档
 ```
